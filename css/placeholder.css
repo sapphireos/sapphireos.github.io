@@ -1,0 +1,9 @@
+html { background-color: #e3ebf3; color: #444;}
+a { color: #4179ae; }
+.h1 img {
+  margin: auto;
+  max-height: 80%;
+  max-width: 80%;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+}

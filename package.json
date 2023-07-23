@@ -1,0 +1,14 @@
+{
+  "name": "sapphireos.com",
+  "version": "1.0.0",
+  "description": "Sapphire Open Systems Website",
+  "repository": "https://github.com/sapphireos/sapphireos.github.io",
+  "author": "sapphireos",
+  "private": true,
+  "scripts": {
+    "start": "serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
